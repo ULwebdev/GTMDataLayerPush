@@ -1,5 +1,5 @@
    dataLayer.push({
-				event:'Contact Form Submit',
+				event:'Form Submit',
 				mktoFormId: form.getId(),
 				'FormValues':form.getValues(),
 				'FormFields': form.allFieldsFilled(),
